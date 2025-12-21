@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'shortener',
     
     # Third-party apps
+    'rest_framework',
     
 ]
 
